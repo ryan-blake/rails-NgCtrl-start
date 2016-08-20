@@ -2,4 +2,4 @@
  Clone  Repository
  -bundle install
  -rake db:migrate
- --rail s
+ --rails s
