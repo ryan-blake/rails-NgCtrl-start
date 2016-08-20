@@ -1,4 +1,4 @@
-# starter-angularJS-rails-connect with bower 
+# starter-angularJS-rails
  Clone  Repository
  
  
