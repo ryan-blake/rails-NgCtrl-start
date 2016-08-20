@@ -1,5 +1,11 @@
-# rails-ng
+# starter-angularJS-rails
  Clone  Repository
- -bundle install
- -rake db:migrate
- --rail s
+ 
+ 
+ **bundle install**
+ 
+ 
+ **rake db:migrate**
+ 
+ 
+ **rails s**
